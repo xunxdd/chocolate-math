@@ -1,0 +1,15 @@
+{
+  "name": "chocolate-math",
+  "version": "1.0.0",
+  "description": "Forth Grade Math (aka Chocolate Math). Quick math quiz with Alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Xun Ding",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^2.3.4",
+    "lodash": "^4.16.1"
+  }
+}
